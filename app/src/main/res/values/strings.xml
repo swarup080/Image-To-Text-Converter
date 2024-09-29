@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Image To Text</string>
+    <string name="logo">logo</string>
+    <string name="turn_pictures_into_words_instantly">Turn Pictures into Words Instantly!</string>
+    <string name="upload">upload</string>
+    <string name="recognized_text_will_appear_here">Recognized text will appear here</string>
+    <string name="placeholder">placeholder</string>
+    <string name="recognized_text">Recognized Text</string>
+    <string name="savedata">savedata</string>
+    <string name="scan">Scan</string>
+    <string name="your_scans">Your Scans</string>
+</resources>
+
+
+
+
+
+
+
